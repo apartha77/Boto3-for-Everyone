@@ -1,9 +1,8 @@
 Test file for S3 upload
 "/home/ec2-user/environment/Boto/Test.txt"
 
-
-
 test file
+
 ------ Test Json to test Lambda to check EC2------------
 {
   "id": "7bf73129-1428-4cd3-a780-95db273d1602",
